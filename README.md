@@ -1,6 +1,6 @@
 # Cavyniq — interface demo
 
-A non-commercial, interactive preview containing only the owner-selected Hacoo product 40826973 (AirPods Max replica). The sample uses seller screenshots and a dated observed price, clearly labeled. Fictional products and their generated images have been removed from the deployed site. Purchasing is disabled throughout. There are no live offers, affiliate links, orders or payments. This is not an official Hacoo website.
+A non-commercial, interactive preview of owner-selected Hacoo listings, clearly marked as replicas with dated observed prices. Twenty-two cards use photographs matched to posts in the owner's supplied Telegram channel export; other previews retain labeled seller screenshots. Fictional products have been removed. Purchasing and affiliate navigation are disabled throughout; future destination URLs may be stored in the client bundle. There are no orders or payments. This is not an official Hacoo website.
 
 Spanish is the default language; English and Russian are also available. Search, category filters, product details and device-local favourites can be explored.
 
