@@ -1,6 +1,6 @@
 # Cavyniq — interface demo
 
-A non-commercial, interactive design preview with eight fictional products and AI-generated product-only images. Prices, sizes and colours are examples. There are no live offers, affiliate links, orders or payments. This is not an official Hacoo website.
+A non-commercial, interactive design preview with eight fictional products and one owner-authorized seller-data sample (Hacoo 40826973). Fictional products use AI-generated images and example prices; the seller sample uses screenshots and a dated observed price, clearly labeled. Purchasing is disabled throughout. There are no live offers, affiliate links, orders or payments. This is not an official Hacoo website.
 
 Spanish is the default language; English and Russian are also available. Search, category filters, product details and device-local favourites can be explored.
 
